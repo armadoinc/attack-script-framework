@@ -56,12 +56,9 @@ TBD
 ##
 
 
-### Disclaimer
-
-Use ASF for security research and testing in controlled environments only. We are not responsible for misuse or damage caused by scripts generated or executed with this framework.
 
 **MITRE ATT&CK Disclaimer**
-We use MITRE ATT&CK® for reference and educational purposes. It is a registered trademark of The MITRE Corporation. Our use of MITRE ATT&CK® does not imply MITRE's endorsement. Visit https://attack.mitre.org/ for more information.
+MITRE ATT&CK® is a registered trademark of The MITRE Corporation. Visit https://attack.mitre.org/ for more information.
 
 ##
 
