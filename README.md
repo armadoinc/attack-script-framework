@@ -1,8 +1,5 @@
-<h1 align="center">
-  <br>
-  <a href="https://github.com/armadoinc/attack-script-framework"><img src="[https://github.com/user-attachments/assets/03a5c7dc-9dd6-49f9-a58b-2fdcdb6596f6](https://github.com/user-attachments/assets/7fd2b66d-29f8-4965-ba61-7486eb0717b9)" alt="Attack Script Framework" ></a>
-  <br>
-</h1>
+
+![attack script framework  banner](https://github.com/user-attachments/assets/227ed95b-e005-4abd-9521-904938a94d4d)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
@@ -61,20 +58,14 @@ TBD
 
 ### Disclaimer
 
-Use ASF for security research and testing in controlled environments only. We take no responsibility for misuse or damage caused by scripts generated or executed with this framework.
+Use ASF for security research and testing in controlled environments only. We are not responsible for misuse or damage caused by scripts generated or executed with this framework.
 
 **MITRE ATT&CK Disclaimer**
 We use MITRE ATT&CK® for reference and educational purposes. It is a registered trademark of The MITRE Corporation. Our use of MITRE ATT&CK® does not imply MITRE's endorsement. Visit https://attack.mitre.org/ for more information.
 
 ##
 
-### Code of Conduct
-
-We are committed to fostering an open and welcoming environment. Please read and follow our [Code of Conduct](https://github.com/armadocorp/attack-framework/wiki/Code-of-Conduct).
-
-##
-
-### Referenes
+### References
 https://itea.org/images/pdf/conferences/2017_Cyber/Proceedings/Shaffer_AutomatedAttackFramework.pdf
 https://research.swtch.com/xz-script
 https://www.deepinstinct.com/blog/what-are-script-based-attacks-and-what-can-be-done-to-prevent-them
